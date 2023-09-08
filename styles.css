@@ -471,6 +471,7 @@ footer {
   text-align: center;
   font-size: 2rem;
   letter-spacing: -1px;
+  padding: 10px 0;
   /* background: linear-gradient(
     -35deg,
     var(--text-color-4) 10%,
